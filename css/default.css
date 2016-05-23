@@ -11,7 +11,7 @@ body{
 }
 
 header{
-  background-color: bisque;
+  background-color: navajowhite;
   position: fixed;
   left: 0;
   top: 0;
@@ -31,7 +31,7 @@ header{
   float: left;
 }
 aside{
-  background-color: blue;
+  background-color: skyblue;
   width: 200px;
   float: right;
   position: relative;
@@ -39,7 +39,7 @@ aside{
   right: 10px;
 }
 footer{
-  background-color: purple;
+  background-color: plum;
   clear: both;
 }
 
@@ -51,7 +51,7 @@ footer{
 }
 
 .box{
-  background-color: red;
+  background-color: lightpink;
   color: black;
   width: 240px;
   height: 80px;
