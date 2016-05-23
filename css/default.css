@@ -6,12 +6,12 @@
 }
 
 body{
-  background-color: ghostwhite;
+  background-color: white;
   margin: 48px 0 0 0;
 }
 
 header{
-  background-color: lightsteelblue;
+  background-color: lightgray;
   position: fixed;
   left: 0;
   top: 0;
@@ -31,7 +31,7 @@ header{
   float: left;
 }
 aside{
-  background-color:powderblue;
+  background-color:lavendar;
   width: 200px;
   float: right;
   position: relative;
@@ -39,7 +39,7 @@ aside{
   right: 10px;
 }
 footer{
-  background-color: lightsteelblue;
+  background-color: lightgray;
   clear: both;
 }
 
@@ -51,7 +51,7 @@ footer{
 }
 
 .box{
-  background-color: gainsboro;
+  background-color: ghostwhite;
   color: black;
   width: 240px;
   height: 80px;
